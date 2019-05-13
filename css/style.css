@@ -1,0 +1,36 @@
+/* styling for index.html */
+.navbar-inverse {
+	margin-bottom: 0px ! important;
+}
+
+.navbar li  a {
+	color: white ! important;
+}
+
+.navbar-brand {
+	color: white ! important;
+	position: relative;
+}
+
+
+
+
+
+/* styling for game.html */
+.parentDiv {
+	paading: 10px;
+}
+
+.mainDiv {
+	padding: 10px;
+}
+
+.tile {
+	border: 1px solid blue;
+	background-color: red;
+	height: 100px;
+}
+
+.tile {
+	border: 1px solid green;
+}
